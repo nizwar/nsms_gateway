@@ -6,7 +6,7 @@ Aplikasi ini menggunakan media Onesignal untuk sebagai perantara Android dengan 
 * Buat akun Onesignal
 * Buat aplikasi baru di Onesignal
 * Ambil `APPID` dan `AUTHKEY` lalu terapkan pada TODO comment yg ada di project ini
-* Salin smsGateaway.php yang ada di folder Backend, lalu salin ke directory server anda, misal (/xampp/htdoc).
+* Salin smsGateaway.php yang ada di folder Backend, lalu paste ke directory server anda, misal (/xampp/htdoc).
 * Jalankan aplikasi.
 
 ## Cara kerja
